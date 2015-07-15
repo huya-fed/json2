@@ -24,5 +24,5 @@ https://github.com/douglascrockford/JSON-js
 
 ##反序列化方法
 
-	var jsonString = "{ id: '01', name: 'Tom' }";
+	var jsonString = '{ "id": "01", "name": "Tom" }';
 	JSON.parse(jsonString);
