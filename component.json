@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/douglascrockford/JSON-js",
+    "version": "v1.0.0",
+    "name": "json2",
+    "main": "json2.js"
+}
